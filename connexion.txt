@@ -1,0 +1,13 @@
+1550515000 serveur1 serveur2
+1550515250 serveur2 serveur4
+1550515300 serveur3 serveur4
+1550516000 serveur1 serveur3
+1550516500 serveur6 serveur5
+1550516750 serveur7 serveur5
+1550517000 serveur6 serveur7
+1550517500 serveur8 serveur1
+1550517750 serveur4 serveur7
+1550518000 serveur8 serveur5
+1550518500 serveur1 serveur8
+1550518750 serveur2 serveur8
+1550519000 serveur4 serveur10
